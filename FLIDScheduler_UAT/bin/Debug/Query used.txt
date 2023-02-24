@@ -1,0 +1,87 @@
+select employee_addr1 a,employee_bankaccounttype b, * from iem_mst_temployee where employee_code in ('115808')
+select employee_era_acc_no a,HRIS_LASTMODIFIEDON b,* from iem_mst_temployee where employee_code in ('136786')
+
+update iem_mst_temployee set employee_era_acc_no='136786' where  employee_code in ('136786')
+Feb 02
+select * from [192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo].[iem_employee_fields_fic] where emp_staffid='136786' 
+2017-05-12 19:40:52.027
+
+select * from  [192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo].[IEM_EMPLOYEE_BANK_DETAILS_FIC] where  emp_staffid='136786'
+select * from [192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo].[erm_employee_bank_details] where emp_staffid in ('136786')  
+
+Select B.Account_Type,A.* from 
+[192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo].[erm_employee_bank_details] A
+inner join
+[192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo].[IEM_EMPLOYEE_BANK_DETAILS_FIC] B
+On A.Emp_StaffID=B.EMP_StaffID
+where A.Emp_StaffID in ('136786       ')
+
+HDFC Bank	
+50100225305240
+2018-07-16 18:48:50.977
+
+Select MAX(HRIS_LASTMODIFIEDON ) from iem_mst_temployee 
+
+2018-07-12 00:00:00.000
+
+SElect * from iem_mig_tflids where flids_date>='2018-07-20 00:14:50.977' order by FLIDS_DATE desc
+
+Update bank details :  UPDATE iem_mst_temployee set 
+
+SElect * from  iem_mst_temployee WHERE ltrim(rtrim(employee_code))='136786'
+ 
+
+
+update iem_mst_temployee set HRIS_LASTMODIFIEDON ='2018-07-08 00:00:00.000' 
+  where employee_code in ('146247',
+'145086',
+'145088',
+'115808',
+'126329',
+'147333',
+'145208',
+'140136',
+'100043',
+'100114',
+'100275',
+'100327',
+'100840',
+'101173',
+'102239',
+'103067',
+'105094',
+'113505',
+'156128',
+'161259',
+'161260',
+'161261',
+'161262',
+'136786'
+) 
+
+Select HRIS_LASTMODIFIEDON a,employee_era_acc_no b, * from iem_mst_temployee where employee_code in ('146247',
+'145086',
+'145088',
+'115808',
+'126329',
+'147333',
+'145208',
+'140136',
+'100043',
+'100114',
+'100275',
+'100327',
+'100840',
+'101173',
+'102239',
+'103067',
+'105094',
+'113505',
+'156128',
+'161259',
+'161260',
+'161261',
+'161262'
+)
+
+ 

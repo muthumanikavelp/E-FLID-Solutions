@@ -1,0 +1,35 @@
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_BANK_FIELDS_FIC;	
+
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_BSCC_FIELDS_FIC;	
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_COUNTRY_FIELDS_FIC;	
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_DEPARTMENT_FIELDS_FIC;	
+
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_DESIGNATION_FIELDS_FIC;	
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_EMPLOYEE_FIELDS_FIC;	
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_GRADE_FIELDS_FIC;	
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_HOLIDAY_MASTER_FIC;
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_OU_FIELDS_FIC;
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_PRODUCT_FIELDS_FIC;
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_PRODUCT_FIELDS_FIC;
+			  
+SELECT * FROM [192.168.84.87\INST_LMSUAT].
+			  New_adrenalin_final_mgmtdemo.dbo.IEM_REGION_FIELDS_FIC;

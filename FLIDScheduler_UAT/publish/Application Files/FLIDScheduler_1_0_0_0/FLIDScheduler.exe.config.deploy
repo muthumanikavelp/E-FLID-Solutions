@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <startup>
+
+    <supportedRuntime version="v2.0.50727"/>
+  </startup>
+  <appSettings >
+    <add key="ConnectionString" value="Server=FCHVERPUATDB01\INST_ERPUAT;Database=IEM_4272018;Integrated Security=SSPI;MultipleActiveResultSets=True"></add>
+    <!--<add key="ConnectionString" value="Server=FCHVERPDB01\INST_ERP;Database=IEM;Uid=tiemeconn;Pwd=t!EM@econn;MultipleActiveResultSets=True"></add>-->
+    <!--<add key="Integration" value="[ECONNECT].[Econnect_Prod_V1].[dbo]."></add>-->
+    <add key="Integration" value="[192.168.84.87\INST_LMSUAT].[90_Econnect_Prod_V1_UAT].[dbo]."></add>
+    <add key="sendmail" value="IEMCommunications@fullertonindia.com" />
+    <add key="sendpw" value="Password0" />
+    <add key="smptMail" value="mail.fullertonindia.local" />
+    <add key="smptMailPort" value="25" />
+    <add key="From" value="IEMCommunications@fullertonindia.com" />
+    <add key="To" value="flexicode.meenakshisundaram.selvaraj@fulletonindia.com" />
+    <add key="ssl" value="true" />
+    <add key="errorlogfile" value="D:\Users\FLIDSCheduler\"/>
+    <add key="empcode" value="171411"/>
+    <add key="ParticularEmployee" value="Y"/>
+  </appSettings>
+</configuration>

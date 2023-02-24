@@ -1,0 +1,8 @@
+OU_CODE	OU_NAME	OU_UPDATED_ON
+CTC1	CTC-1	NULL
+21	Rural	NULL
+10	Fullerton India Credit Co. Ltd	NULL
+31	Portfolio	2014-12-12 19:19:47.710
+91	Automation-Standard Assets Provisioning Reversal	NULL
+11	Urban	2014-12-12 19:28:56.437
+41	Central	NULL

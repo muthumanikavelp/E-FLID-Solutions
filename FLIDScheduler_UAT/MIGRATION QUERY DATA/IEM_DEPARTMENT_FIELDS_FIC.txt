@@ -1,0 +1,22 @@
+IntAud	Internal Audit	NULL
+OPS CTR	Ops Centre	NULL
+Operations	Operations	NULL
+AIM	Analytics & Information Management	NULL
+CPSI	Corporate Planning and Strategic Initiatives	NULL
+HC	Human Capital	NULL
+CSR	Corporate Sustainability and Responsibility	NULL
+Mkt	Marketing	NULL
+Treasury	Treasury	NULL
+RiskCRE	Risk Control And Review	NULL
+Retail	Retail	NULL
+CEOS OFF	CEOs Office	NULL
+Insurance	Insurance	NULL
+902	Credit	NULL
+FINCON	Finance	NULL
+Rural	Rural	NULL
+PremisesIn	Premises Infrastructure and Procurement	NULL
+CustFull	Customer Fulfillment	NULL
+Legal	Legal and Compliance	NULL
+FCU	Fraud Risk Management	NULL
+Technology	Technology	NULL
+Commercial	Commercial	NULL

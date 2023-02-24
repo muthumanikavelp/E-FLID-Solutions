@@ -1,0 +1,354 @@
+CALENDAR_CODE	CALENDAR_NAME	HOLIDAY_DATE	HOLIDAY_DESCRIPTION	HOLIDAY_REASON
+00b9665ce4cc4f9b	Mumbai	2015-08-15 00:00:00.000	Independance Day	Independance Day
+02AD7180593F40B0	Himachal Pradesh	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+02AD7180593F40B0	Himachal Pradesh	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+02AD7180593F40B0	Himachal Pradesh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+02AD7180593F40B0	Himachal Pradesh	2014-03-17 00:00:00.000	Holi	Holi
+02AD7180593F40B0	Himachal Pradesh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+02AD7180593F40B0	Himachal Pradesh	2014-10-03 00:00:00.000	Dasara	Dasara
+02AD7180593F40B0	Himachal Pradesh	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+02AD7180593F40B0	Himachal Pradesh	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+02AD7180593F40B0	Himachal Pradesh	2014-12-25 00:00:00.000	Christmas	Christmas
+02AD7180593F40B0	Himachal Pradesh	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+02AD7180593F40B0	Himachal Pradesh	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+02AD7180593F40B0	Himachal Pradesh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+02AD7180593F40B0	Himachal Pradesh	2014-11-04 00:00:00.000	Moharum	Moharum
+02AD7180593F40B0	Himachal Pradesh	2014-01-07 00:00:00.000	Guru Gobind Singhs Birthday	Guru Gobind Singhs Birthday
+02AD7180593F40B0	Himachal Pradesh	2014-02-14 00:00:00.000	Guru Ravidas Birthday	Guru Ravidas Birthday
+02AD7180593F40B0	Himachal Pradesh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+1B503993E26A4B99	Jharkhand	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+1B503993E26A4B99	Jharkhand	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+1B503993E26A4B99	Jharkhand	2014-08-15 00:00:00.000	Independence Day	Independence Day
+1B503993E26A4B99	Jharkhand	2014-11-04 00:00:00.000	Moharum	Moharum
+1B503993E26A4B99	Jharkhand	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+1B503993E26A4B99	Jharkhand	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+1B503993E26A4B99	Jharkhand	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+1B503993E26A4B99	Jharkhand	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+1B503993E26A4B99	Jharkhand	2014-04-18 00:00:00.000	Good Friday	Good Friday
+1B503993E26A4B99	Jharkhand	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+1B503993E26A4B99	Jharkhand	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+1B503993E26A4B99	Jharkhand	2014-03-17 00:00:00.000	Holi	Holi
+1B503993E26A4B99	Jharkhand	2014-12-25 00:00:00.000	Christmas	Christmas
+1B503993E26A4B99	Jharkhand	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+1B503993E26A4B99	Jharkhand	2014-10-03 00:00:00.000	Dasara	Dasara
+1B503993E26A4B99	Jharkhand	2014-10-28 00:00:00.000	Chhath Puja	Chhath Puja
+2B8E3CEC22014073	Jammu and Kashmir	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+2B8E3CEC22014073	Jammu and Kashmir	2014-03-17 00:00:00.000	Holi	Holi
+2B8E3CEC22014073	Jammu and Kashmir	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+2B8E3CEC22014073	Jammu and Kashmir	2014-11-04 00:00:00.000	Moharum	Moharum
+2B8E3CEC22014073	Jammu and Kashmir	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+2B8E3CEC22014073	Jammu and Kashmir	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+2B8E3CEC22014073	Jammu and Kashmir	2014-12-25 00:00:00.000	Christmas	Christmas
+2B8E3CEC22014073	Jammu and Kashmir	2014-02-14 00:00:00.000	Guru Ravidas Birthday	Guru Ravidas Birthday
+2B8E3CEC22014073	Jammu and Kashmir	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+2B8E3CEC22014073	Jammu and Kashmir	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+2B8E3CEC22014073	Jammu and Kashmir	2014-01-07 00:00:00.000	Guru Gobind Singhs Birthday	Guru Gobind Singhs Birthday
+2B8E3CEC22014073	Jammu and Kashmir	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+2B8E3CEC22014073	Jammu and Kashmir	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+2B8E3CEC22014073	Jammu and Kashmir	2014-08-15 00:00:00.000	Independence Day	Independence Day
+2B8E3CEC22014073	Jammu and Kashmir	2014-10-03 00:00:00.000	Dasara	Dasara
+2B8E3CEC22014073	Jammu and Kashmir	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+2C933212820848F4	Uttar Pradesh	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+2C933212820848F4	Uttar Pradesh	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+2C933212820848F4	Uttar Pradesh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+2C933212820848F4	Uttar Pradesh	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+2C933212820848F4	Uttar Pradesh	2014-11-04 00:00:00.000	Moharum	Moharum
+2C933212820848F4	Uttar Pradesh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+2C933212820848F4	Uttar Pradesh	2014-03-17 00:00:00.000	Holi	Holi
+2C933212820848F4	Uttar Pradesh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+2C933212820848F4	Uttar Pradesh	2014-05-13 00:00:00.000	Birthday of Md.Hajrat Ali	Birthday of Md.Hajrat Ali
+2C933212820848F4	Uttar Pradesh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+2C933212820848F4	Uttar Pradesh	2014-10-03 00:00:00.000	Dasara	Dasara
+2C933212820848F4	Uttar Pradesh	2014-12-25 00:00:00.000	Christmas	Christmas
+2C933212820848F4	Uttar Pradesh	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+2C933212820848F4	Uttar Pradesh	2014-04-18 00:00:00.000	Good Friday	Good Friday
+2C933212820848F4	Uttar Pradesh	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+2C933212820848F4	Uttar Pradesh	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+2D05C72723384567	Goa	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+2D05C72723384567	Goa	2014-12-25 00:00:00.000	Christmas	Christmas
+2D05C72723384567	Goa	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+2D05C72723384567	Goa	2014-12-19 00:00:00.000	Goa Liberation Day	Goa Liberation Day
+2D05C72723384567	Goa	2014-12-03 00:00:00.000	St. Xaviers Feast	St. Xaviers Feast
+2D05C72723384567	Goa	2014-04-18 00:00:00.000	Good Friday	Good Friday
+2D05C72723384567	Goa	2014-03-31 00:00:00.000	Gudi Padwa	Gudi Padwa
+2D05C72723384567	Goa	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+2D05C72723384567	Goa	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+2D05C72723384567	Goa	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+2D05C72723384567	Goa	2014-02-19 00:00:00.000	Chatrapati Shivaji Maharaj Jayanti	Chatrapati Shivaji Maharaj Jayanti
+2D05C72723384567	Goa	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+2D05C72723384567	Goa	2014-08-15 00:00:00.000	Independence Day	Independence Day
+2D05C72723384567	Goa	2014-10-03 00:00:00.000	Dasara	Dasara
+2D05C72723384567	Goa	2014-03-17 00:00:00.000	Holi	Holi
+2D05C72723384567	Goa	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+35012DEAC4484801	Karnataka	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+35012DEAC4484801	Karnataka	2014-11-04 00:00:00.000	Moharum	Moharum
+35012DEAC4484801	Karnataka	2014-10-22 00:00:00.000	Naraka Chaturdasi	Naraka Chaturdasi
+35012DEAC4484801	Karnataka	2014-10-04 00:00:00.000	Vijayadashami	Vijayadashami
+35012DEAC4484801	Karnataka	2014-12-25 00:00:00.000	Christmas	Christmas
+35012DEAC4484801	Karnataka	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+35012DEAC4484801	Karnataka	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+35012DEAC4484801	Karnataka	2014-11-01 00:00:00.000	Kannada Rajyotsava	Kannada Rajyotsava
+35012DEAC4484801	Karnataka	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+35012DEAC4484801	Karnataka	2014-04-18 00:00:00.000	Good Friday	Good Friday
+35012DEAC4484801	Karnataka	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+35012DEAC4484801	Karnataka	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+35012DEAC4484801	Karnataka	2014-01-15 00:00:00.000	Uttarayan/Makar Sankranti	Uttarayan/Makar Sankranti
+35012DEAC4484801	Karnataka	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+35012DEAC4484801	Karnataka	2014-08-15 00:00:00.000	Independence Day	Independence Day
+35012DEAC4484801	Karnataka	2014-03-31 00:00:00.000	Gudi Padwa	Gudi Padwa
+448031DA878E47B8	Pondicherry	2014-11-04 00:00:00.000	Moharum	Moharum
+448031DA878E47B8	Pondicherry	2014-12-25 00:00:00.000	Christmas	Christmas
+448031DA878E47B8	Pondicherry	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+448031DA878E47B8	Pondicherry	2014-10-03 00:00:00.000	Dasara	Dasara
+448031DA878E47B8	Pondicherry	2014-01-15 00:00:00.000	Uttarayan/Makar Sankranti	Uttarayan/Makar Sankranti
+448031DA878E47B8	Pondicherry	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+448031DA878E47B8	Pondicherry	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+448031DA878E47B8	Pondicherry	2014-08-15 00:00:00.000	Independence Day	Independence Day
+448031DA878E47B8	Pondicherry	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+448031DA878E47B8	Pondicherry	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+448031DA878E47B8	Pondicherry	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+448031DA878E47B8	Pondicherry	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+448031DA878E47B8	Pondicherry	2014-10-22 00:00:00.000	Naraka Chaturdasi	Naraka Chaturdasi
+448031DA878E47B8	Pondicherry	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+448031DA878E47B8	Pondicherry	2014-08-16 00:00:00.000	De Jure Transfer Day	De Jure Transfer Day
+448031DA878E47B8	Pondicherry	2014-04-18 00:00:00.000	Good Friday	Good Friday
+451B80E55EAE4ED0	Haryana	2014-03-17 00:00:00.000	Holi	Holi
+451B80E55EAE4ED0	Haryana	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+451B80E55EAE4ED0	Haryana	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+451B80E55EAE4ED0	Haryana	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+451B80E55EAE4ED0	Haryana	2014-02-14 00:00:00.000	Guru Ravidas Birthday	Guru Ravidas Birthday
+451B80E55EAE4ED0	Haryana	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+451B80E55EAE4ED0	Haryana	2014-11-04 00:00:00.000	Moharum	Moharum
+451B80E55EAE4ED0	Haryana	2014-01-07 00:00:00.000	Guru Gobind Singhs Birthday	Guru Gobind Singhs Birthday
+451B80E55EAE4ED0	Haryana	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+451B80E55EAE4ED0	Haryana	2014-12-25 00:00:00.000	Christmas	Christmas
+451B80E55EAE4ED0	Haryana	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+451B80E55EAE4ED0	Haryana	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+451B80E55EAE4ED0	Haryana	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+451B80E55EAE4ED0	Haryana	2014-08-15 00:00:00.000	Independence Day	Independence Day
+451B80E55EAE4ED0	Haryana	2014-10-03 00:00:00.000	Dasara	Dasara
+451B80E55EAE4ED0	Haryana	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+589621FCDC1342A7	Kerala	2014-09-08 00:00:00.000	Chaturdashi (Ganesh Visarjan)	Chaturdashi (Ganesh Visarjan)
+589621FCDC1342A7	Kerala	2014-11-04 00:00:00.000	Moharum	Moharum
+589621FCDC1342A7	Kerala	2014-04-15 00:00:00.000	Vishu	Vishu
+589621FCDC1342A7	Kerala	2014-09-06 00:00:00.000	First Onam	First Onam
+589621FCDC1342A7	Kerala	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+589621FCDC1342A7	Kerala	2014-08-15 00:00:00.000	Independence Day	Independence Day
+589621FCDC1342A7	Kerala	2014-10-03 00:00:00.000	Dasara	Dasara
+589621FCDC1342A7	Kerala	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+589621FCDC1342A7	Kerala	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+589621FCDC1342A7	Kerala	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+589621FCDC1342A7	Kerala	2014-10-22 00:00:00.000	Naraka Chaturdasi	Naraka Chaturdasi
+589621FCDC1342A7	Kerala	2014-09-15 00:00:00.000	Srikrishna Jayanthi	Srikrishna Jayanthi
+589621FCDC1342A7	Kerala	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+589621FCDC1342A7	Kerala	2014-12-25 00:00:00.000	Christmas	Christmas
+589621FCDC1342A7	Kerala	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+589621FCDC1342A7	Kerala	2014-04-18 00:00:00.000	Good Friday	Good Friday
+6F8EA7227A894E60	Rajasthan	2014-03-17 00:00:00.000	Holi	Holi
+6F8EA7227A894E60	Rajasthan	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+6F8EA7227A894E60	Rajasthan	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+6F8EA7227A894E60	Rajasthan	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+6F8EA7227A894E60	Rajasthan	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+6F8EA7227A894E60	Rajasthan	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+6F8EA7227A894E60	Rajasthan	2014-12-25 00:00:00.000	Christmas	Christmas
+6F8EA7227A894E60	Rajasthan	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+6F8EA7227A894E60	Rajasthan	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+6F8EA7227A894E60	Rajasthan	2014-08-15 00:00:00.000	Independence Day	Independence Day
+6F8EA7227A894E60	Rajasthan	2014-10-03 00:00:00.000	Dasara	Dasara
+6F8EA7227A894E60	Rajasthan	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+6F8EA7227A894E60	Rajasthan	2014-11-04 00:00:00.000	Moharum	Moharum
+6F8EA7227A894E60	Rajasthan	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+6F8EA7227A894E60	Rajasthan	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+6F8EA7227A894E60	Rajasthan	2014-02-04 00:00:00.000	Saraswati Puja	Saraswati Puja
+7C1AD8A5946D4A13	Madhya Pradesh	2014-10-03 00:00:00.000	Dasara	Dasara
+7C1AD8A5946D4A13	Madhya Pradesh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+7C1AD8A5946D4A13	Madhya Pradesh	2014-12-25 00:00:00.000	Christmas	Christmas
+7C1AD8A5946D4A13	Madhya Pradesh	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+7C1AD8A5946D4A13	Madhya Pradesh	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+7C1AD8A5946D4A13	Madhya Pradesh	2014-11-04 00:00:00.000	Moharum	Moharum
+7C1AD8A5946D4A13	Madhya Pradesh	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+7C1AD8A5946D4A13	Madhya Pradesh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+7C1AD8A5946D4A13	Madhya Pradesh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+7C1AD8A5946D4A13	Madhya Pradesh	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+7C1AD8A5946D4A13	Madhya Pradesh	2014-03-17 00:00:00.000	Holi	Holi
+7C1AD8A5946D4A13	Madhya Pradesh	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+7C1AD8A5946D4A13	Madhya Pradesh	2014-09-08 00:00:00.000	Chaturdashi (Ganesh Visarjan)	Chaturdashi (Ganesh Visarjan)
+7C1AD8A5946D4A13	Madhya Pradesh	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+7C1AD8A5946D4A13	Madhya Pradesh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+7C1AD8A5946D4A13	Madhya Pradesh	2014-04-18 00:00:00.000	Good Friday	Good Friday
+8484D8DBDE2C4692	Andhra Pradesh	2014-10-03 00:00:00.000	Dasara	Dasara
+8484D8DBDE2C4692	Andhra Pradesh	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+8484D8DBDE2C4692	Andhra Pradesh	2014-03-31 00:00:00.000	Gudi Padwa	Gudi Padwa
+8484D8DBDE2C4692	Andhra Pradesh	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+8484D8DBDE2C4692	Andhra Pradesh	2014-12-25 00:00:00.000	Christmas	Christmas
+8484D8DBDE2C4692	Andhra Pradesh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+8484D8DBDE2C4692	Andhra Pradesh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+8484D8DBDE2C4692	Andhra Pradesh	2014-11-04 00:00:00.000	Moharum	Moharum
+8484D8DBDE2C4692	Andhra Pradesh	2014-01-15 00:00:00.000	Uttarayan/Makar Sankranti	Uttarayan/Makar Sankranti
+8484D8DBDE2C4692	Andhra Pradesh	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+8484D8DBDE2C4692	Andhra Pradesh	2014-03-17 00:00:00.000	Holi	Holi
+8484D8DBDE2C4692	Andhra Pradesh	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+8484D8DBDE2C4692	Andhra Pradesh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+8484D8DBDE2C4692	Andhra Pradesh	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+8484D8DBDE2C4692	Andhra Pradesh	2014-04-18 00:00:00.000	Good Friday	Good Friday
+8484D8DBDE2C4692	Andhra Pradesh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+883CC239DE224A3B	Gujarat	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+883CC239DE224A3B	Gujarat	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+883CC239DE224A3B	Gujarat	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+883CC239DE224A3B	Gujarat	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+883CC239DE224A3B	Gujarat	2014-12-25 00:00:00.000	Christmas	Christmas
+883CC239DE224A3B	Gujarat	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+883CC239DE224A3B	Gujarat	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+883CC239DE224A3B	Gujarat	2014-10-03 00:00:00.000	Dasara	Dasara
+883CC239DE224A3B	Gujarat	2014-11-04 00:00:00.000	Moharum	Moharum
+883CC239DE224A3B	Gujarat	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+883CC239DE224A3B	Gujarat	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+883CC239DE224A3B	Gujarat	2014-01-15 00:00:00.000	Uttarayan/Makar Sankranti	Uttarayan/Makar Sankranti
+883CC239DE224A3B	Gujarat	2014-03-17 00:00:00.000	Holi	Holi
+883CC239DE224A3B	Gujarat	2014-08-15 00:00:00.000	Independence Day	Independence Day
+883CC239DE224A3B	Gujarat	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+883CC239DE224A3B	Gujarat	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+934A99DE5F354838	Tamil Nadu	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+934A99DE5F354838	Tamil Nadu	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+934A99DE5F354838	Tamil Nadu	2014-08-15 00:00:00.000	Independence Day	Independence Day
+934A99DE5F354838	Tamil Nadu	2014-04-18 00:00:00.000	Good Friday	Good Friday
+934A99DE5F354838	Tamil Nadu	2014-03-31 00:00:00.000	Gudi Padwa	Gudi Padwa
+934A99DE5F354838	Tamil Nadu	2014-01-15 00:00:00.000	Uttarayan/Makar Sankranti	Uttarayan/Makar Sankranti
+934A99DE5F354838	Tamil Nadu	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+934A99DE5F354838	Tamil Nadu	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+934A99DE5F354838	Tamil Nadu	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+934A99DE5F354838	Tamil Nadu	2014-11-04 00:00:00.000	Moharum	Moharum
+934A99DE5F354838	Tamil Nadu	2014-12-25 00:00:00.000	Christmas	Christmas
+934A99DE5F354838	Tamil Nadu	2014-10-22 00:00:00.000	Naraka Chaturdasi	Naraka Chaturdasi
+934A99DE5F354838	Tamil Nadu	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+934A99DE5F354838	Tamil Nadu	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+934A99DE5F354838	Tamil Nadu	2014-10-03 00:00:00.000	Dasara	Dasara
+934A99DE5F354838	Tamil Nadu	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+9D2439885B154C7A	Uttaranchal	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+9D2439885B154C7A	Uttaranchal	2014-04-18 00:00:00.000	Good Friday	Good Friday
+9D2439885B154C7A	Uttaranchal	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+9D2439885B154C7A	Uttaranchal	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+9D2439885B154C7A	Uttaranchal	2014-08-15 00:00:00.000	Independence Day	Independence Day
+9D2439885B154C7A	Uttaranchal	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+9D2439885B154C7A	Uttaranchal	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+9D2439885B154C7A	Uttaranchal	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+9D2439885B154C7A	Uttaranchal	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+9D2439885B154C7A	Uttaranchal	2014-11-04 00:00:00.000	Moharum	Moharum
+9D2439885B154C7A	Uttaranchal	2014-03-17 00:00:00.000	Holi	Holi
+9D2439885B154C7A	Uttaranchal	2014-05-13 00:00:00.000	Birthday of Md.Hajrat Ali	Birthday of Md.Hajrat Ali
+9D2439885B154C7A	Uttaranchal	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+9D2439885B154C7A	Uttaranchal	2014-10-03 00:00:00.000	Dasara	Dasara
+9D2439885B154C7A	Uttaranchal	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+9D2439885B154C7A	Uttaranchal	2014-12-25 00:00:00.000	Christmas	Christmas
+A10490A1CB5C4D4C	Chandigarh	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+A10490A1CB5C4D4C	Chandigarh	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+A10490A1CB5C4D4C	Chandigarh	2014-03-17 00:00:00.000	Holi	Holi
+A10490A1CB5C4D4C	Chandigarh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+A10490A1CB5C4D4C	Chandigarh	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+A10490A1CB5C4D4C	Chandigarh	2014-12-25 00:00:00.000	Christmas	Christmas
+A10490A1CB5C4D4C	Chandigarh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+A10490A1CB5C4D4C	Chandigarh	2014-02-14 00:00:00.000	Guru Ravidas Birthday	Guru Ravidas Birthday
+A10490A1CB5C4D4C	Chandigarh	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+A10490A1CB5C4D4C	Chandigarh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+A10490A1CB5C4D4C	Chandigarh	2014-01-07 00:00:00.000	Guru Gobind Singhs Birthday	Guru Gobind Singhs Birthday
+A10490A1CB5C4D4C	Chandigarh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+A10490A1CB5C4D4C	Chandigarh	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+A10490A1CB5C4D4C	Chandigarh	2014-11-04 00:00:00.000	Moharum	Moharum
+A10490A1CB5C4D4C	Chandigarh	2014-10-03 00:00:00.000	Dasara	Dasara
+A10490A1CB5C4D4C	Chandigarh	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+B4B9253964274AD9	Chhattisgarh	2014-10-03 00:00:00.000	Dasara	Dasara
+B4B9253964274AD9	Chhattisgarh	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+B4B9253964274AD9	Chhattisgarh	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+B4B9253964274AD9	Chhattisgarh	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+B4B9253964274AD9	Chhattisgarh	2014-09-08 00:00:00.000	Chaturdashi (Ganesh Visarjan)	Chaturdashi (Ganesh Visarjan)
+B4B9253964274AD9	Chhattisgarh	2014-11-04 00:00:00.000	Moharum	Moharum
+B4B9253964274AD9	Chhattisgarh	2014-03-17 00:00:00.000	Holi	Holi
+B4B9253964274AD9	Chhattisgarh	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+B4B9253964274AD9	Chhattisgarh	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+B4B9253964274AD9	Chhattisgarh	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+B4B9253964274AD9	Chhattisgarh	2014-12-25 00:00:00.000	Christmas	Christmas
+B4B9253964274AD9	Chhattisgarh	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+B4B9253964274AD9	Chhattisgarh	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+B4B9253964274AD9	Chhattisgarh	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+B4B9253964274AD9	Chhattisgarh	2014-08-15 00:00:00.000	Independence Day	Independence Day
+B4B9253964274AD9	Chhattisgarh	2014-04-18 00:00:00.000	Good Friday	Good Friday
+C6745828A6A1499E	Maharashtra	2014-10-03 00:00:00.000	Dasara	Dasara
+C6745828A6A1499E	Maharashtra	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+C6745828A6A1499E	Maharashtra	2014-02-19 00:00:00.000	Chatrapati Shivaji Maharaj Jayanti	Chatrapati Shivaji Maharaj Jayanti
+C6745828A6A1499E	Maharashtra	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+C6745828A6A1499E	Maharashtra	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+C6745828A6A1499E	Maharashtra	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+C6745828A6A1499E	Maharashtra	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+C6745828A6A1499E	Maharashtra	2014-03-31 00:00:00.000	Gudi Padwa	Gudi Padwa
+C6745828A6A1499E	Maharashtra	2014-03-17 00:00:00.000	Holi	Holi
+C6745828A6A1499E	Maharashtra	2014-08-15 00:00:00.000	Independence Day	Independence Day
+C6745828A6A1499E	Maharashtra	2014-12-25 00:00:00.000	Christmas	Christmas
+C6745828A6A1499E	Maharashtra	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+C6745828A6A1499E	Maharashtra	2014-11-04 00:00:00.000	Moharum	Moharum
+C6745828A6A1499E	Maharashtra	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+C6745828A6A1499E	Maharashtra	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+C6745828A6A1499E	Maharashtra	2014-04-18 00:00:00.000	Good Friday	Good Friday
+DB415DEFEB6F4E54	Orissa	2014-11-04 00:00:00.000	Moharum	Moharum
+DB415DEFEB6F4E54	Orissa	2014-04-18 00:00:00.000	Good Friday	Good Friday
+DB415DEFEB6F4E54	Orissa	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+DB415DEFEB6F4E54	Orissa	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+DB415DEFEB6F4E54	Orissa	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+DB415DEFEB6F4E54	Orissa	2014-12-25 00:00:00.000	Christmas	Christmas
+DB415DEFEB6F4E54	Orissa	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+DB415DEFEB6F4E54	Orissa	2014-02-27 00:00:00.000	Mahashivratri	Mahashivratri
+DB415DEFEB6F4E54	Orissa	2014-08-30 00:00:00.000	Nuakhai	Nuakhai
+DB415DEFEB6F4E54	Orissa	2014-08-15 00:00:00.000	Independence Day	Independence Day
+DB415DEFEB6F4E54	Orissa	2014-03-17 00:00:00.000	Holi	Holi
+DB415DEFEB6F4E54	Orissa	2014-08-29 00:00:00.000	Ganesh Chaturthi/Vinayak Vrata	Ganesh Chaturthi/Vinayak Vrata
+DB415DEFEB6F4E54	Orissa	2014-10-04 00:00:00.000	Vijayadashami	Vijayadashami
+DB415DEFEB6F4E54	Orissa	2014-02-04 00:00:00.000	Saraswati Puja	Saraswati Puja
+DB415DEFEB6F4E54	Orissa	2014-10-03 00:00:00.000	Dasara	Dasara
+DB415DEFEB6F4E54	Orissa	2014-10-01 00:00:00.000	Durga Puja Saptami	Durga Puja Saptami
+E079E3C4720A45B2	Punjab	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+E079E3C4720A45B2	Punjab	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+E079E3C4720A45B2	Punjab	2014-03-17 00:00:00.000	Holi	Holi
+E079E3C4720A45B2	Punjab	2014-08-15 00:00:00.000	Independence Day	Independence Day
+E079E3C4720A45B2	Punjab	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+E079E3C4720A45B2	Punjab	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+E079E3C4720A45B2	Punjab	2014-11-04 00:00:00.000	Moharum	Moharum
+E079E3C4720A45B2	Punjab	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+E079E3C4720A45B2	Punjab	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+E079E3C4720A45B2	Punjab	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+E079E3C4720A45B2	Punjab	2014-02-14 00:00:00.000	Guru Ravidas Birthday	Guru Ravidas Birthday
+E079E3C4720A45B2	Punjab	2014-05-14 00:00:00.000	Budhdha Pournima	Budhdha Pournima
+E079E3C4720A45B2	Punjab	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+E079E3C4720A45B2	Punjab	2014-12-25 00:00:00.000	Christmas	Christmas
+E079E3C4720A45B2	Punjab	2014-01-07 00:00:00.000	Guru Gobind Singhs Birthday	Guru Gobind Singhs Birthday
+E079E3C4720A45B2	Punjab	2014-10-03 00:00:00.000	Dasara	Dasara
+E94C081DF9BB4ED2	Delhi	2014-08-18 00:00:00.000	Parsi New Year/Janmashtami	Parsi New Year/Janmashtami
+E94C081DF9BB4ED2	Delhi	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+E94C081DF9BB4ED2	Delhi	2014-04-14 00:00:00.000	Dr. Babasaheb Ambedkar Jayanti	Dr. Babasaheb Ambedkar Jayanti
+E94C081DF9BB4ED2	Delhi	2014-11-06 00:00:00.000	Guru Nanak Jayanti	Guru Nanak Jayanti
+E94C081DF9BB4ED2	Delhi	2014-10-08 00:00:00.000	Maharishi Valmikis Jayanti	Maharishi Valmikis Jayanti
+E94C081DF9BB4ED2	Delhi	2014-04-18 00:00:00.000	Good Friday	Good Friday
+E94C081DF9BB4ED2	Delhi	2014-04-08 00:00:00.000	Ram Navmi	Ram Navmi
+E94C081DF9BB4ED2	Delhi	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+E94C081DF9BB4ED2	Delhi	2014-01-14 00:00:00.000	Id-E-Milad	Id-E-Milad
+E94C081DF9BB4ED2	Delhi	2014-03-17 00:00:00.000	Holi	Holi
+E94C081DF9BB4ED2	Delhi	2014-10-03 00:00:00.000	Dasara	Dasara
+E94C081DF9BB4ED2	Delhi	2014-08-15 00:00:00.000	Independence Day	Independence Day
+E94C081DF9BB4ED2	Delhi	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
+E94C081DF9BB4ED2	Delhi	2014-11-04 00:00:00.000	Moharum	Moharum
+E94C081DF9BB4ED2	Delhi	2014-12-25 00:00:00.000	Christmas	Christmas
+E94C081DF9BB4ED2	Delhi	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+F89024F7BD2649F3	West Bengal	2014-10-24 00:00:00.000	Diwali (Balipratipada)	Diwali (Balipratipada)
+F89024F7BD2649F3	West Bengal	2014-10-01 00:00:00.000	Durga Puja Saptami	Durga Puja Saptami
+F89024F7BD2649F3	West Bengal	2014-11-04 00:00:00.000	Moharum	Moharum
+F89024F7BD2649F3	West Bengal	2014-08-15 00:00:00.000	Independence Day	Independence Day
+F89024F7BD2649F3	West Bengal	2014-10-06 00:00:00.000	Bakri Id (Id Ul Zua)	Bakri Id (Id Ul Zua)
+F89024F7BD2649F3	West Bengal	2014-04-18 00:00:00.000	Good Friday	Good Friday
+F89024F7BD2649F3	West Bengal	2014-05-01 00:00:00.000	Maharashtra Din	Maharashtra Din
+F89024F7BD2649F3	West Bengal	2014-09-23 00:00:00.000	Mahalaya	Mahalaya
+F89024F7BD2649F3	West Bengal	2014-04-15 00:00:00.000	Vishu	Vishu
+F89024F7BD2649F3	West Bengal	2014-01-23 00:00:00.000	Netaji Birthday	Netaji Birthday
+F89024F7BD2649F3	West Bengal	2014-07-29 00:00:00.000	Ramzan Id (Id Ul Fitar)	Ramzan Id (Id Ul Fitar)
+F89024F7BD2649F3	West Bengal	2014-12-25 00:00:00.000	Christmas	Christmas
+F89024F7BD2649F3	West Bengal	2014-10-03 00:00:00.000	Dasara	Dasara
+F89024F7BD2649F3	West Bengal	2014-02-04 00:00:00.000	Saraswati Puja	Saraswati Puja
+F89024F7BD2649F3	West Bengal	2014-10-02 00:00:00.000	Mahatma Gandhi Jayanti	Mahatma Gandhi Jayanti
+F89024F7BD2649F3	West Bengal	2014-10-23 00:00:00.000	Diwali Amavasya (Laxmi Pujan)	Diwali Amavasya (Laxmi Pujan)
